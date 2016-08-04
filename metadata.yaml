@@ -1,0 +1,40 @@
+_repo: The-Light-That-Failed_2876
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: One of Kipling's most interesting novels, The Light that Failed hovers
+  on the edge of sentimentality for most of its pages, never quite slipping. Dick
+  Heldar is an artist, who becomes successful through drawings of a war in Sudan for
+  one of the London newspapers - this being in the days before photographs filled
+  the newspapers. Returning to London, he begins to work as a serious artist, and
+  re-encounters his childhood playmate, Maisie, and falls in love with her. Just as
+  he begins work on what is to be his masterpiece, he has to seek medical advice for
+  a problem with his eyes and is told that he is going blind, incurably, as a result
+  of the after affects of a head wound received in the Sudan.
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'War correspondents -- Sudan -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Artists -- Fiction'
+- !lcsh 'Blindness -- Fiction'
+- GITenberg
+title: The Light That Failed
+url: http://www.gutenberg.org/ebooks/2876
