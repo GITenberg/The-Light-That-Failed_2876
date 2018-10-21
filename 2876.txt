@@ -12,7 +12,7 @@
   Author: Rudyard Kipling
 
   Release Date: December 23, 2008 [EBook #2876]
-  Last Updated: October 5, 2012
+  Last Updated: February 24, 2016
 
   Language: English
 
@@ -128,9 +128,10 @@ and a keen study of the Scriptures, was an aid to her in this matter. At
 such times as she herself was not personally displeased with Dick, she
 left him to understand that he had a heavy account to settle with his
 Creator; wherefore Dick learned to loathe his God as intensely as he
-loathed Mrs. Jennett; and this is not a wholesome frame of mind for
-the young. Since she chose to regard him as a hopeless liar, but
-an economical and self-contained one, never throwing away the least
+loathed Mrs. Jennett; and this is not a wholesome frame of mind for the
+young. Since she chose to regard him as a hopeless liar, when dread of
+pain drove him to his first untruth, he naturally developed into a liar,
+but an economical and self-contained one, never throwing away the least
 unnecessary fib, and never hesitating at the blackest, were it only
 plausible, that might make his life a little easier. The treatment
 taught him at least the power of living alone,--a power that was of
@@ -474,7 +475,6 @@ a distance.
 
 'If you aren't a gentleman you might try to behave like one,' said Mrs.
 Jennett, spitefully. 'You've been quarrelling with Maisie again.'
-
 This meant that the usual good-night kiss had been omitted. Maisie,
 white to the lips, thrust her cheek forward with a fine air of
 indifference, and was duly pecked by Dick, who tramped out of the room
@@ -770,7 +770,7 @@ was no novelty in the entertainment; always the same hot and stifling
 formation, the smell of dust and leather, the same boltlike rush of
 the enemy, the same pressure on the weakest side, the few minutes of
 hand-to-hand scuffle, and then the silence of the desert, broken only
-by the yells of those whom their handful of cavalry attempted to purse.
+by the yells of those whom their handful of cavalry attempted to pursue.
 They had become careless. The camel-guns spoke at intervals, and the
 square slouched forward amid the protesting of the camels. Then came the
 attack of three thousand men who had not learned from books that it is
@@ -1042,7 +1042,7 @@ sausages and mashed potatoes, twopence a plate, were the best food.
 Now, sausages once or twice a week for breakfast are not unpleasant.
 As lunch, even, with mashed potatoes, they become monotonous. At dinner
 they are impertinent. At the end of three days Dick loathed sausages,
-and, going, forth, pawned his watch to revel on sheep's head, which
+and, going forth, pawned his watch to revel on sheep's head, which
 is not as cheap as it looks, owing to the bones and the gravy. Then
 he returned to sausages and mashed potatoes. Then he confined himself
 entirely to mashed potatoes for a day, and was unhappy because of pain
@@ -1064,7 +1064,7 @@ he went to draw his money. Then he hastened to Torpenhow's address
 and smelt the smell of cooking meats all along the corridors of the
 chambers. Torpenhow was on the top floor, and Dick burst into his room,
 to be received with a hug which nearly cracked his ribs, as Torpenhow
-dragged him tot he light and spoke of twenty different things in the
+dragged him to the light and spoke of twenty different things in the
 same breath.
 
 'But you're looking tucked up,' he concluded.
@@ -1337,7 +1337,7 @@ like the fuss; and above all I like the money. I almost like the
 people who make the fuss and pay the money. Almost. But they're a queer
 gang,--an amazingly queer gang!'
 
-'They have been good enough to you, at any rate. That tin-pot exhibition
+'They have been good enough to you, at any rate, than tin-pot exhibition
 of your sketches must have paid. Did you see that the papers called it
 the "Wild Work Show"?'
 
@@ -1480,7 +1480,7 @@ trifle with them,--or with yourself, which is more important.
 Moreover,--Come back, Binkie: that red daub isn't going
 anywhere,--unless you take precious good care, you will fall under the
 damnation of the check-book, and that's worse than death. You will get
-drunk--you-re half drunk already--on easily acquired money. For that
+drunk--you're half drunk already--on easily acquired money. For that
 money and your own infernal vanity you are willing to deliberately turn
 out bad work. You'll do quite enough bad work without knowing it. And,
 Dickie, as I love you and as I know you love me, I am not going to let
@@ -1547,8 +1547,9 @@ British public; and self-respect is self-respect the world over. Go
 out for a walk and try to catch some self-respect. And, I say, if the
 Nilghai comes up this evening can I show him your diggings?'
 
-'Surely.' And Dick departed, to take counsel with himself in the rapidly
-gathering London fog.
+'Surely. You'll be asking whether you must knock at my door, next.' And
+Dick departed, to take counsel with himself in the rapidly gathering
+London fog.
 
 Half an hour after he had left, the Nilghai laboured up the staircase.
 He was the chiefest, as he was the youngest, of the war correspondents,
@@ -1700,8 +1701,8 @@ step.'
 
 'So I am. I'm sorry. You went on with the painting?'
 
-'Of course. I said I should. I was at the Slade, then at Merton's in St.
-John's Wood, the big studio, then I pepper-potted,--I mean I went to the
+'Of course. I said I should. I was at the Slade, then at Merton's in _St.
+John's Wood_, the big studio, then I pepper-potted,--I mean I went to the
 National,--and now I'm working under Kami.'
 
 'But Kami is in Paris surely?'
@@ -1751,7 +1752,7 @@ of winning the easy applause of a fashion-driven public----" 'That's
 
 '----"public, there remains but one end,--the oblivion that is preceded
 by toleration and cenotaphed with contempt. From that fate Mr. Heldar
-has yet to prove himself out of danger.'
+has yet to prove himself out of danger."'
 
 'Wow--wow--wow--wow--wow!' said Dick, profanely. 'It's a clumsy ending
 and vile journalese, but it's quite true. And yet,'--he sprang to his
@@ -2338,7 +2339,7 @@ method.
 despairingly, over the modelling of a chin that Maisie complained would
 not 'look flesh,'--it was the same chin that she had scraped out with
 the palette knife,--'but I find it almost impossible to teach you.
-There's a queer grin, Dutch touch about your painting that I like; but
+There's a queer grim, Dutch touch about your painting that I like; but
 I've a notion that you're weak in drawing. You foreshorten as though you
 never used the model, and you've caught Kami's pasty way of dealing with
 flesh in shadow. Then, again, though you don't know it yourself, you
@@ -2458,7 +2459,7 @@ am now. I'll poison that red-haired girl on my wedding-day,--she's
 unwholesome,--and now I'll pass on these present bad times to Torp.'
 
 Torpenhow had been moved to lecture Dick more than once lately on the
-sin of levity, and Dick listened and replied not a word. In the weeks
+sin of levity, and Dick had listened and replied not a word. In the weeks
 between the first few Sundays of his discipline he had flung himself
 savagely into his work, resolved that Maisie should at least know the
 full stretch of his powers. Then he had taught Maisie that she must
@@ -3205,7 +3206,7 @@ someone helps you to see. That steamer's out of hearing.'
 'Dick,' she said quietly, 'suppose I were to come to you now,--be quiet
 a minute,--just as I am, and caring for you just as much as I do.'
 
-'Not as a brother, though You said you didn't--in the Park.'
+'Not as a brother, though? You said you didn't--in the Park.'
 
 'I never had a brother. Suppose I said, "Take me to those places, and in
 time, perhaps, I might really care for you," what would you do?'
@@ -4498,7 +4499,7 @@ red-haired girl had sketched him there was rather more dread than desire
 in his mind.
 
 He found that Maisie had entirely neglected his suggestions about
-line-work. She had gone off at score filed with some absurd notion for a
+line-work. She had gone off at score filled with some absurd notion for a
 'fancy head.' It cost Dick something to command his temper.
 
 'What's the good of suggesting anything?' he said pointedly.
@@ -4736,7 +4737,7 @@ me if you want anything, and good-bye. Say good-bye to the
 whatever-you-call-um girl, and--can't I have another kiss? No. You're
 quite right. Good-bye.'
 
-I should told him that it was not seemly to charge the mail-bag incline.
+I shout told him that it was not seemly to charge the mail-bag incline.
 He reached the pier as the steamer began to move off, and he followed
 her with his heart.
 
@@ -6153,7 +6154,7 @@ Dick was led into a chair. He heard the rustle of the maps, and the talk
 swept forward, carrying him with it. Everybody spoke at once, discussing
 press censorships, railway-routes, transport, water-supply, the
 capacities of generals,--these in language that would have horrified a
-trusting public,--ranging, asserting, denouncing, and laughing at the
+trusting public,--ranting, asserting, denouncing, and laughing at the
 top of their voices. There was the glorious certainty of war in the
 Soudan at any moment. The Nilghai said so, and it was well to be in
 readiness. The Keneu had telegraphed to Cairo for horses; Cassavetti
@@ -6372,7 +6373,7 @@ best in her stock,--she used them daily; he had given her advice that
 she profited by, and now and again--a look. Such a look! The look of a
 beaten hound waiting for the word to crawl to his mistress's feet. In
 return she had given him nothing whatever, except--here she brushed her
-mouth against the open-work sleeve f her nightgown--the privilege of
+mouth against the open-work sleeve of her nightgown--the privilege of
 kissing her once. And on the mouth, too. Disgraceful! Was that not
 enough, and more than enough? and if it was not, had he not cancelled
 the debt by not writing and--probably kissing other girls? 'Maisie,
@@ -6952,7 +6953,6 @@ temper was of the shortest.
 
 ''Tain't my regular business, o' course, sir; and what I say is, "Mind
 your own business and let other people mind theirs;" but just before Mr.
-
 Torpenhow went away he give me to understand, like, that you might be
 moving into a house of your own, so to speak--a sort of house with rooms
 upstairs and downstairs where you'd be better attended to, though I try
@@ -7327,7 +7327,7 @@ he.
 'Then west, then south, and then east again, all along the under-side
 of Europe. Then south again, God knows how far.' The explanation did
 not enlighten Bessie in the least, but she held her tongue and looked to
-Dick's patch till they came to the chambers.
+Dick's path till they came to the chambers.
 
 'We'll have tea and muffins,' he said joyously. 'I can't tell you,
 Bessie, how glad I am to find you again. What made you go away so
@@ -8684,7 +8684,7 @@ disgusted sentry who was used to stampeding camels.
 'Every stitch of my kit on that blasted dromedary,' Dick answered, after
 the manner of a common soldier.
 
-'Go on, and take care your throat's not cut out side--you and your
+'Go on, and take care your throat's not cut outside--you and your
 dromedary's.'
 
 The outcries ceased when the camel had disappeared behind a hillock, and
@@ -8715,7 +8715,9 @@ committed some crime as bad as Sabbath-breaking, and she had locked him
 up in his bedroom. But he could never repeat more than the first two
 lines of the hymn--
 
-When Israel of the Lord believed Out of the land of bondage came.
+When Israel of the Lord beloved
+
+Out of the land of bondage came.
 
 He said them over and over thousands of times. The driver turned in the
 saddle to see if there were any chance of capturing the revolver and
